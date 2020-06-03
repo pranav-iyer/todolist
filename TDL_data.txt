@@ -1,0 +1,7 @@
+1	prepare for LSAT tutoring	2020-06-03 14:00	incomplete
+2	finish up todolist app	2020-06-03 23:59	complete!
+3	bark bark!	2020-06-02 20:04	complete!
+4	tutor Austin	2020-06-03 14:00	incomplete
+5	trash event	2020-01-01 01:00	complete!
+6	trash 2	2020-01-01 12:00	complete!
+7	trashhh	2020-01-01 12:00	complete!
